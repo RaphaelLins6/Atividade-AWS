@@ -1,0 +1,8 @@
+/* Sobrescrevendo a variável CSS */
+:root {
+    --header-bg: orangered !important;
+}
+
+#site-name a:visited {
+    color: #ffffff;
+}
