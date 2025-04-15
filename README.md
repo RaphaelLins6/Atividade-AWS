@@ -11,7 +11,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
 <img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="60" height="50"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="50" height="40"/> 
 
 ---
 
@@ -69,11 +69,11 @@ python manage.py runserver
 
 ## Referências
 
-* **Django**: [Django Tutorial](https://docs.djangoproject.com/en/5.2/intro/install/) - Documentação oficial do framework Django.
-* **AWS**: [AWS](https://aws.amazon.com/pt/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all) - Site da AWS.
-* **Python**: [Python](https://www.python.org/downloads/release/python-3132/) - Documentação oficial da linguagem de programação python.
-* **Pip**: [Pip](https://pip.pypa.io/en/stable/getting-started/) - Documentação oficial do instalador de pacotes para Python.
-* **Venv**: [Venv](https://docs.python.org/3/library/venv.html#module-venv) - Documentação oficial do módulo venv que suporta a criação de “ambientes virtuais”.
+* **📘Django**: [Django Tutorial](https://docs.djangoproject.com/en/5.2/intro/install/) - Documentação oficial do framework Django.
+* **☁️AWS**: [AWS](https://aws.amazon.com/pt/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all) - Site da AWS.
+* **🐍Python**: [Python](https://www.python.org/downloads/release/python-3132/) - Documentação oficial da linguagem de programação python.
+* **📦Pip**: [Pip](https://pip.pypa.io/en/stable/getting-started/) - Documentação oficial do instalador de pacotes para Python.
+* **🧪Venv**: [Venv](https://docs.python.org/3/library/venv.html#module-venv) - Documentação oficial do módulo venv que suporta a criação de “ambientes virtuais”.
 
 ---
 
